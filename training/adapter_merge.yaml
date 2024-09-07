@@ -1,0 +1,13 @@
+### Note: DO NOT use quantized model or quantization_bit when merging lora adapters
+
+### model
+model_name_or_path: models/sft-mmlu-sample-3
+adapter_name_or_path: saves/t3ai/lora/sft-mmlu-sample-3-combined
+template: llama3
+finetuning_type: lora
+
+### export
+export_dir: models/sft-mmlu-sample-3-combined
+export_size: 5
+export_device: cpu
+export_legacy_format: false
