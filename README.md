@@ -15,7 +15,7 @@
 └── README.md
 ````
 
-## Takım Adı: Takım ID
+## Cogitators: 563647
 - 👤 [Osama Shbib](https://github.com/osama24sy)
 - 👤 [Rayene Bech](https://github.com/rayenebech)
 - 👤 [Abdullah Koçak](https://github.com/opdullah)
