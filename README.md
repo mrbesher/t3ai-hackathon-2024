@@ -16,18 +16,16 @@
 ````
 
 ## Takım Adı: Takım ID
-- 👤 Osama Shbıb
-- 👤 Rayene Bech
-- 👤 Abdullah Koçak
-- 👤 Besher Alkurdi
-....
+- 👤 [Osama Shbib](https://github.com/osama24sy)
+- 👤 [Rayene Bech](https://github.com/rayenebech)
+- 👤 [Abdullah Koçak](https://github.com/opdullah)
+- 👤 [Besher Alkurdi](https://github.com/mrbesher)
+
+---
 
 
 ## Veri Seti Kaynakları
-### Türk Eğitim Sistemi
-### Türk Hukuku
-### Sürdürülebilirlik
-### Tarım
+Veri kümelerine erişim izni bulunan üyeler bu linkten erişebilir: https://huggingface.co/datasets/osama24sy/t3ai-cogitators-datasets
 
 ## İnce Ayarlama Süreci Başlatma
 
